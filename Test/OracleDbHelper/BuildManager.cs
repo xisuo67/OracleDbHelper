@@ -5,7 +5,8 @@ using System.Linq;
 using System.Reflection;
 using System.Threading;
 
-namespace Test
+
+namespace OracleDbHelper
 {
     internal sealed class TypesAndReferences
     {

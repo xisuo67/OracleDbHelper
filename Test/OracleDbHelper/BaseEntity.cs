@@ -5,7 +5,7 @@ using System.Data;
 using System.Linq.Expressions;
 using System.Reflection;
 
-namespace Test
+namespace OracleDbHelper
 {
     /// <summary>
     /// 数据实体的基类
