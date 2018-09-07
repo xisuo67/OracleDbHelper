@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Reflection;
 
-namespace Test
+namespace OracleDbHelper
 {
     internal sealed class CodeDomCompiler
     {
